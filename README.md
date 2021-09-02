@@ -1,2 +1,2 @@
 # cheersland-audit-report
-Audit report of CheersLand
+https://solidity.finance/audits/CheersLand/
